@@ -18,3 +18,6 @@ Selection sort using java.
 
 Day 5:
 Bubble sort using java.
+
+Day 6:
+Multidimentional arrays in java.
