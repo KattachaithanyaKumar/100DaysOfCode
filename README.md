@@ -21,3 +21,6 @@ Bubble sort using java.
 
 Day 6:
 Multidimentional arrays in java.
+
+Day 7:
+Largest element in the array.
