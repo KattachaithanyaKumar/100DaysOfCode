@@ -24,3 +24,6 @@ Multidimentional arrays in java.
 
 Day 7:
 Largest element in the array.
+
+Day 8:
+Mergeing of two arrays.
