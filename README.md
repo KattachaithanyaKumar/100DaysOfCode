@@ -27,3 +27,6 @@ Largest element in the array.
 
 Day 8:
 Merging of two arrays.
+
+Day 9:
+Strings and string functions in java.
