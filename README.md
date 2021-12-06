@@ -30,3 +30,6 @@ Merging of two arrays.
 
 Day 9:
 Strings and string functions in java.
+
+Day 10:
+Classes in java.
