@@ -36,3 +36,6 @@ Classes in java.
 
 Day 11:
 Inheritance in java.
+
+Day 12:
+Find the missing number in an array using java.
