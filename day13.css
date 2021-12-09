@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.navbar {
+    width: 100%;
+    height: 6%;
+    background-color: aqua;
+    position: fixed;
+}
+
+.navbar h2 {
+    position: relative;
+    top: 20%;
+    left: 2%;
+}
+
+.mainpage {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+} 
+
+.mainpage h1 {
+    position: relative;
+    top: 30%;
+    left: 5%;
+    font-size: 100;
+    color: white;
+}
+
+.page2 {
+    width: 100%;
+    height: 100%;
+    background-color: bisque;
+}
+
+.page2 h1 {
+    position: relative;
+    top: 30%;
+    left: 5%;
+    font-size: 100;
+    color: black;
+}
+
+.page3 {
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+}
+
+.page3 h1 {
+    position: relative;
+    top: 30%;
+    left: 5%;
+    font-size: 100;
+    color: black;
+}
