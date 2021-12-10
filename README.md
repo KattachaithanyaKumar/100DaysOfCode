@@ -42,3 +42,6 @@ Find the missing number in an array using java.
 
 Day 13:
 basic html and css website
+
+Day 14:
+basic hover animation of the divs in html using css.
