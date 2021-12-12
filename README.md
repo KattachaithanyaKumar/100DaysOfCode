@@ -48,3 +48,6 @@ basic hover animation of the divs in html using css.
 
 Day 15:
 basic table in html.
+
+Day 16:
+basic form in html.
