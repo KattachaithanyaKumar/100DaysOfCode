@@ -54,3 +54,6 @@ basic form in html.
 
 Day 17:
 basic lists in html.
+
+Day 18:
+String numbers.
